@@ -1,6 +1,7 @@
 # Hello-World
 introductory repository for github learning, using Lorem Ipsum style
 
+# Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id risus ut tortor auctor tincidunt eu eu dolor. Vestibulum luctus et erat nec aliquet. Aliquam dignissim consectetur nibh, eget euismod nunc sodales eu. Donec imperdiet felis dolor. Phasellus lacinia augue dolor, a congue ipsum cursus et. Donec a tellus condimentum, lobortis est id, condimentum massa. Mauris tempus sapien ex, eu feugiat tortor interdum vel.
 
