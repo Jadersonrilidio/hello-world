@@ -1,3 +1,5 @@
 First insert into text file, from the branch number 01.
 
 this is a merge conflict test.
+
+testing file merging conflict from new02.
